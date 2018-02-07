@@ -1,0 +1,29 @@
+{
+  "name": "pedigree-chart-library",
+  "version": "1.0.0",
+  "description": "Chart library for family trees.",
+  "main": "src/pedigree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maazzali/pedigree-chart-library.git"
+  },
+  "keywords": [
+    "pedigree",
+    "chart",
+    "family",
+    "tree"
+  ],
+  "author": "Maaz Ali <xsmaazali@gmail.com> (http://muhammadmaazali.com/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/maazzali/pedigree-chart-library/issues"
+  },
+  "homepage": "https://github.com/maazzali/pedigree-chart-library#readme",
+  "dependencies": {
+    "snapsvg": "0.5.1",
+    "svg-pan-zoom": "3.5.3"
+  }
+}
